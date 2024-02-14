@@ -1,0 +1,21 @@
+{
+   "bscNode": "https://data-seed-prebsc-1-s1.binance.org:8545/",
+   "walletAddress": "0x0bFD580a07a6f0F8ef8F9010D827d136c1ec6e43",
+   "walletPrivateKey": "32892f7e0f4f5e306fb60e8370b8ff3b4753e3e94914d9b41df223e94f71630d",
+   "pancakeSwapRouterAddress": "0xD99D1c33F9fC3444f8101754aBC46c52416550D1",
+   "amountToSpendPerSnipe": "0.0000001",
+   "transactionRevertTimeSeconds": "10000",
+   "gasAmount": "850000",
+   "gasPrice": "10",
+   "bscScanAPIKey": "RETP86D5K182EEERHME97NZ5K1GHZAZRKU",
+   "sellOnlyMode": "False",
+   "checkSourceCode": "True",
+   "checkValidPancakeV2": "True",
+   "checkMintFunction": "True",
+   "checkHoneypot": "True",
+   "checkPancakeV1Router": "True",
+   "sellProfit": "1.5",
+   "pancakeSwapFactoryAddress":"0x6725F303b657a9451d8BA641348b6761A6CC7a17",
+   "checkSumAddress":"0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+   "infura_url":"https://bold-billowing-theorem.ethereum-goerli.discover.quiknode.pro/37486ccdc266345915a62af1f17cb0418d103adb/"
+}

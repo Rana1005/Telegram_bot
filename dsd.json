@@ -1,0 +1,10 @@
+"privateKey":"32892f7e0f4f5e306fb60e8370b8ff3b4753e3e94914d9b41df223e94f71630d",
+        "walletAddress":"0x0bFD580a07a6f0F8ef8F9010D827d136c1ec6e43",
+        "amount":0.0001,
+        "tokenAddress":"0x11fE4B6AE13d2a6055C8D9cF65c55bac32B5d844",
+
+        "maxMirrorLimit":"0.001",
+        "mirrorWallet":"0x0bFD580a07a6f0F8ef8F9010D827d136c1ec6e43",
+        "amount_to_invest":0.0001,
+        "transactionRevertTime":10000,
+        "profitToAttain":1.5
